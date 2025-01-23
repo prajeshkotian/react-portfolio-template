@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/prajesh-portfolio/static/css/main.0b563199.css",
+    "main.js": "/prajesh-portfolio/static/js/main.24ef330e.js",
+    "static/js/453.b05d8aa5.chunk.js": "/prajesh-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/prajesh-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/prajesh-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock11.png": "/prajesh-portfolio/static/media/mock11.37bbaf3cd7049cd1a2ac.png",
+    "static/media/mock03.png": "/prajesh-portfolio/static/media/mock03.7d33b5e8d9ff44dec545.png",
+    "static/media/mock02.png": "/prajesh-portfolio/static/media/mock02.a4600719e0b5d2a3155b.png",
+    "static/media/mock01.png": "/prajesh-portfolio/static/media/mock01.899239f4cddcefbff088.png",
+    "index.html": "/prajesh-portfolio/index.html",
+    "main.0b563199.css.map": "/prajesh-portfolio/static/css/main.0b563199.css.map",
+    "main.24ef330e.js.map": "/prajesh-portfolio/static/js/main.24ef330e.js.map",
+    "453.b05d8aa5.chunk.js.map": "/prajesh-portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b563199.css",
+    "static/js/main.24ef330e.js"
+  ]
+}
